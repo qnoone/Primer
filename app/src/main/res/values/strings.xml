@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Пример</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="HeaderName">Отправить заявку</string>
+    <!-- <string name="HeaderEmail">prospectgp@mail.ru</string> -->
+
+    <string name="title_feed_detail">Детали</string>
+    <string name="feed_url">https://progrou.wordpress.com/feed</string>
+    <!--<string name="feed_url">http://feeds.bbci.co.uk/news/rss.xml</string> -->
+
+    <string name="item_navigation_drawer_inbox">Новое</string>
+
+    <string name="item_Auto">Авто</string>
+    <string name="item_Magazin">Магазины</string>
+    <string name="item_Razvlech">Развлечения</string>
+    <string name="item_Hobbi">Хобби</string>
+    <string name="item_Deti">Дети</string>
+    <string name="item_Krasota">Красота</string>
+    <string name="item_Sport">Спорт</string>
+    <string name="item_Turism">Туризм</string>
+    <string name="item_Kultura">Культура</string>
+    <string name="item_Medicina">Медицина</string>
+    <string name="item_Nedvigimost">Недвижимость</string>
+    <string name="item_Stroyka">Строительство</string>
+    <string name="item_Obrazovanie">Образование</string>
+    <string name="item_Uslugi">Услуги</string>
+    <string name="item_Reklama">Реклама</string>
+    <string name="item_Finans">Финансы</string>
+    <string name="item_Rabota">Работа</string>
+
+    <string name="item_navigation_drawer_starred">Старт</string>
+    <string name="item_navigation_sent_mail">Почта</string>
+    <string name="item_navigation_drawer_drafts">Драфт</string>
+
+    <string name="item_navigation_drawer_settings">Настройки</string>
+    <!-- <string name="item_navigation_drawer_help_and_feedback">Помощь</string> -->
+    <string name="title_activity_settings">Параметры</string>
+    <string name="title_settings">Параметры</string>
+    <string name="title_feed_list">Лента</string>
+
+
+</resources>

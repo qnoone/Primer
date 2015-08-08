@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:checked="false"
+            android:id="@+id/item_navigation_drawer_inbox"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_navigation_drawer_inbox" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_Auto"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Auto" />
+        <item
+            android:id="@+id/item_Magazin"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Magazin" />
+        <item
+            android:id="@+id/item_Razvlech"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Razvlech" />
+        <item
+            android:id="@+id/item_Hobbi"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Hobbi" />
+        <item
+            android:id="@+id/item_Deti"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Deti" />
+        <item
+            android:id="@+id/item_Krasota"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Krasota" />
+        <item
+            android:id="@+id/item_Sport"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Sport" />
+        <item
+            android:id="@+id/item_Turism"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Turism" />
+        <item
+            android:id="@+id/item_Kultura"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Kultura" />
+        <item
+            android:id="@+id/item_Medicina"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Medicina" />
+        <item
+            android:id="@+id/item_Nedvigimost"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Nedvigimost" />
+        <item
+            android:id="@+id/item_Stroyka"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Stroyka" />
+        <item
+            android:id="@+id/item_Obrazovanie"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Obrazovanie" />
+        <item
+            android:id="@+id/item_Uslugi"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Uslugi" />
+        <item
+            android:id="@+id/item_Reklama"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Reklama" />
+        <item
+            android:id="@+id/item_Finans"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Finans" />
+        <item
+            android:id="@+id/item_Rabota"
+            android:icon="@drawable/ic_action_device_gps_not_fixed"
+            android:title="@string/item_Rabota" />
+
+        <item
+            android:id="@+id/item_navigation_drawer_starred"
+            android:icon="@drawable/ic_action_toggle_star"
+            android:title="@string/item_navigation_drawer_starred" />
+        <item
+            android:id="@+id/item_navigation_drawer_sent_mail"
+            android:icon="@drawable/ic_action_content_send"
+            android:title="@string/item_navigation_sent_mail" />
+        <item
+            android:id="@+id/item_navigation_drawer_drafts"
+            android:icon="@drawable/ic_action_content_drafts"
+            android:title="@string/item_navigation_drawer_drafts" />
+    </group>
+
+    <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/item_navigation_drawer_settings"
+                android:icon="@drawable/ic_action_content_mail"
+                android:title="@string/item_navigation_drawer_settings" />
+        <!--    <item
+                android:id="@+id/item_navigation_drawer_help_and_feedback"
+                android:icon="@drawable/ic_action_action_delete"
+                android:title="@string/item_navigation_drawer_help_and_feedback" />  -->
+    </group>
+</menu>
